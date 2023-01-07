@@ -84,6 +84,7 @@ p{
 /* Features-Section */
 
 #features{
+    text-align: center;
     padding: 70px 70px ;
     background-color: #ffffff;
     position: relative;
